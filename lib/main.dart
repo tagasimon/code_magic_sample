@@ -8,7 +8,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Code Magic Demo',
       theme: ThemeData.dark(),
       home: MyHomePage(title: 'Code Magic Demo'),
     );
